@@ -1,0 +1,32 @@
+.bgColor{
+    color :black
+}
+
+.Card>div{
+        background-color: powderblue;
+}
+
+.btn{
+    background-color: grey;
+    color: white;
+}
+
+.btn:hover{
+    background-color: antiquewhite;
+    color: black; ;
+}
+
+.cardItem{
+    font-size: 20px;
+   display: block;
+   margin-bottom: 5px;
+   justify-content: space-around;
+   align-items: center;   
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    
+}

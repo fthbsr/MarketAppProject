@@ -1,0 +1,90 @@
+.basket{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.basket>h1{
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 5px;
+    font-size: 50px;
+    color: black;
+}
+
+
+.Prod{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.Pay{
+    background-color:grey;
+    color: powderblue;
+    text-align: left;
+    padding-left: 0px;
+    margin-top: 20px;
+    padding: 10px;
+    height: 100%;
+    border-radius: 16px;
+    padding-top: 10px;
+    height: 300px;
+    
+}
+
+.PayContent{
+    display: block;
+    margin-top: 20px;
+}
+
+
+.PayContent>button{
+    margin-top: 30px;
+    display: block;
+    color: powderblue;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.PayContent>button:hover{
+    background-color: powderblue;
+    color: black;
+}
+
+
+.button{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width:  90%;
+    margin: auto;
+    align-items: center;
+   
+}
+
+.button>p{
+    margin-top: 10px;
+}
+
+.cardBack>div{
+    
+        background-color:powderblue ;
+        margin-bottom: 4px;
+}
+
+h1{
+    color: powderblue;
+    display:  inline-block;
+}
+
+.money{
+    font-size: 40px;
+    display:  inline-block;
+    margin-left: 3px;
+}

@@ -1,0 +1,45 @@
+.backColor {
+  background-color: powderblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-items: center;
+  box-sizing: border-box;
+  height: 90px;
+  
+}
+
+.link>span{
+    padding-right:20px ;
+}
+
+.linkDetail{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+    font-size: 24px;
+}
+
+.linkDetail:hover{
+    color: blueviolet;
+}
+
+.linkDetail>span{
+    font-size: 32px;
+    color: black;
+    padding: 3px;
+    margin-left: 3px;
+   
+}
+
+
+.bgg>span{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    background-color: black;
+}
